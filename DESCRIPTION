@@ -56,7 +56,6 @@ Imports:
     xml2
 Suggests: 
     cli,
-    flowmapblue,
     flowmapper (>= 0.1.2),
     furrr,
     future,
@@ -64,6 +63,7 @@ Suggests:
     ggiraph,
     hexSticker,
     htmlwidgets,
+    mapgl (>= 0.5.2),
     mapSpain,
     quarto,
     remotes,

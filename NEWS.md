@@ -1,5 +1,9 @@
 # spanishoddata (development version)
 
+## Documentation
+
+* The interactive flow maps vignette now uses the `{mapgl}` package (`add_flowmap()` and `add_slider_control()`) instead of `{flowmapblue}`. No Mapbox access token is needed any more. `{flowmapblue}` is no longer suggested.
+
 ## Minor improvements and maintenance
 
 * Internal maintenance: updated DuckDB memory limit configuration setting to `memory_limit`.

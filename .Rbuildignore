@@ -32,6 +32,5 @@ README.qmd
 ^vignettes/flowmaps-interactive\.qmd$
 ^vignettes/flowmaps-static\.qmd$
 ^man/figures/card\.png$
-^man/figures/.*flowmapblue.*
 ^cran-comments\.md$
 ^CRAN-SUBMISSION$
