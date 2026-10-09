@@ -69,18 +69,6 @@
     },
     {
       "@type": "SoftwareApplication",
-      "identifier": "flowmapblue",
-      "name": "flowmapblue",
-      "provider": {
-        "@id": "https://cran.r-project.org",
-        "@type": "Organization",
-        "name": "Comprehensive R Archive Network (CRAN)",
-        "url": "https://cran.r-project.org"
-      },
-      "sameAs": "https://CRAN.R-project.org/package=flowmapblue"
-    },
-    {
-      "@type": "SoftwareApplication",
       "identifier": "flowmapper",
       "name": "flowmapper",
       "version": ">= 0.1.2",
@@ -175,6 +163,19 @@
         "url": "https://cran.r-project.org"
       },
       "sameAs": "https://CRAN.R-project.org/package=mapSpain"
+    },
+    {
+      "@type": "SoftwareApplication",
+      "identifier": "mapgl",
+      "name": "mapgl",
+      "version": ">= 0.5.2",
+      "provider": {
+        "@id": "https://cran.r-project.org",
+        "@type": "Organization",
+        "name": "Comprehensive R Archive Network (CRAN)",
+        "url": "https://cran.r-project.org"
+      },
+      "sameAs": "https://CRAN.R-project.org/package=mapgl"
     },
     {
       "@type": "SoftwareApplication",
